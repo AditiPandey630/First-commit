@@ -15,6 +15,9 @@ public class Main {
 
             System.out.println("Thisis my second practice");
 
+            System.out.println("Thisis my 3rd practice");
+
+
         }
     }
 }
