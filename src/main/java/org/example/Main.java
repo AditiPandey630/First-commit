@@ -13,9 +13,13 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
 
-            System.out.println("Thisis my second practice");
+           //deleting line here
 
-            System.out.println("Thisis my 3rd practice");
+            System.out.println("Thisis my 3rd practice- making new chnages here ");
+
+            System.out.println("Adding new lines");
+
+            
 
 
         }
